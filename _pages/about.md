@@ -37,9 +37,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Songlin is currectly a first-year PhD student at [MIT CSAIL](https://www.csail.mit.edu/), advised by [Prof. Yoon Kim](https://people.csail.mit.edu/yoonkim/). 
 
-Previously, she obtained her bachelar's degree at [SUSTech](https://www.sustech.edu.cn/en/) and her master's degree from [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/), where she was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
+Previously, she obtained her bachelar's degree at [SUSTech](https://www.sustech.edu.cn/en/) and her master's degree at [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/), where she was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
 
-Her research is centered on the intersection of **machine learning systems** and **large language models**, with a specific focus on the hardware-aware algorithm design for efficient sequence modeling.
+Her research is centered on the intersection of **machine learning system** and **large language model**, with a specific focus on the hardware-aware algorithm design for efficient sequence modeling.
 
 
 
