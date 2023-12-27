@@ -6,11 +6,15 @@ permalink: /
 
 profile:
   align: right
-  image: sonta.JPG
-  image_circular: true # crops the image to make it circular
+  image: sonta.png
+  image_circular: false # crops the image to make it circular
+  
   # more_info: >
   #   <p>Cambridge, MA, USA 02139</p>
   #   <p>CSAIL, MIT</p>
+
+
+
 
 
 
