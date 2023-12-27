@@ -1,34 +1,66 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Kim":
+  - firstname: ["Yoon"]
+    url: https://people.csail.mit.edu/yoonkim/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Wang":
+  - firstname: ["Bailin"]
+    url: https://berlino.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Tu":
+  - firstname: ["Kewei"]
+    url: https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Shen":
+  - firstname: ["Yikang"]
+    url: https://mitibmwatsonailab.mit.edu/people/yikang-shen/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Panda": 
+  - firstname: ["Rameswar"]
+    url: https://rpand002.github.io/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Zhong":
+  - firstname: ["Yiran"]
+    url: https://yiranzhong.com/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Qin":
+  - firstname: ["Zhen"]
+    url: https://doraemonzzz.com/
+  
+"Liu":
+  - firstname: ["Wei"]
+    url: https://vpeterv.github.io/
+
+
+"Levy":
+  - firstname: ["Roger"]
+    url: https://www.mit.edu/~rplevy/
+
+"Yan":
+  - firstname: ["Zhaohui"]
+    url: https://scholar.google.com/citations?user=R5bvjGMAAAAJ&hl=en
+
+
+"Lou":
+  - firstname: ["Chao"]
+    url: https://scholar.google.com/citations?user=ii7ozEUAAAAJ&hl=zh-CN
+  
+
+"Zhao":
+  - firstname: ["Yanpeng"]
+    url: https://scholar.google.com/citations?hl=en&user=-T9FigIAAAAJ&view_op=list_works&sortby=pubdate
+
+"Jiang":
+  - firstname: ["Yong"]
+    url: https://jiangyong.site/
+
+"Han":
+  - firstname: ["Wenjuan"]
+    url: https://winniehan.github.io/
+
+
+
+
+
+
