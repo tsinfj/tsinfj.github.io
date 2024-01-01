@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Announcing Gated Linear Attention ([GLA](https://arxiv.org/abs/2312.06635))! :sparkles: :smile: Code is available at [here](https://github.com/berlino/gated_linear_attention).
+Announcing Gated Linear Attention Transformers ([GLA](https://arxiv.org/abs/2312.06635))! :sparkles: :smile: Code is available at [here](https://github.com/berlino/gated_linear_attention).

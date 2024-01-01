@@ -35,7 +35,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Songlin is currectly a first-year PhD student at [MIT CSAIL](https://www.csail.mit.edu/), advised by [Prof. Yoon Kim](https://people.csail.mit.edu/yoonkim/). 
+Songlin is currently a first-year PhD student at [MIT CSAIL](https://www.csail.mit.edu/), advised by [Prof. Yoon Kim](https://people.csail.mit.edu/yoonkim/). 
 
 Previously, she obtained her bachelar's degree at [SUSTech](https://www.sustech.edu.cn/en/) and her master's degree at [ShanghaiTech](https://www.shanghaitech.edu.cn/eng/), where she was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
 

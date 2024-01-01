@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting Hiearchically Gated RNN ([HRGN](https://arxiv.org/abs/2311.04823)) at NeurIPS :rocket:. Code is available at [here](https://github.com/OpenNLPLab/HGRN).
+Presenting our linear RNN paper ([HRGN](https://arxiv.org/abs/2311.04823)) at NeurIPS :sparkles: :sparkles:. Code is available at [here](https://github.com/OpenNLPLab/HGRN).
