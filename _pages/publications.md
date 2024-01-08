@@ -12,3 +12,5 @@ nav_order: 2
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=fl3gjrTOBNVfz-VckHobk8rvS-QAnN5WzmpRlfw5wJ0&cl=ffffff&w=a"></script>
