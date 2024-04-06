@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: sonta3.jpg
+  image: sonta.jpg
   image_circular: false # crops the image to make it circular
   
   # more_info: >
