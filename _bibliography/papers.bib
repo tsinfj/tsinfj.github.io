@@ -1,3 +1,13 @@
+@inproceedings{Qin2024HGRN2GL,
+  title={HGRN2: Gated Linear RNNs with State Expansion},
+  author={Zhen Qin and Songlin Yang and Weixuan Sun and Xuyang Shen and Dong Li and Weigao Sun and Yiran Zhong},
+  year={2024},
+  html={https://api.semanticscholar.org/CorpusID:269043328},
+  selected={true},
+  abbr={arXiv},
+  code={https://github.com/sustcsonglin/flash-linear-attention/tree/main/fla/models/hgrn2},
+}
+
 @inproceedings{Yang2023GatedLA,
   title={Gated Linear Attention Transformers with Hardware-Efficient Training},
   author={Songlin Yang* and Bailin Wang* and Yikang Shen and Rameswar Panda and Yoon Kim},
@@ -7,7 +17,7 @@
   html={https://arxiv.org/abs/2312.06635},
   selected={true},
   abbr={arXiv},
-  code={https://github.com/berlino/gated_linear_attention},
+  code={https://github.com/sustcsonglin/flash-linear-attention/tree/main/fla/models/gla},
 }
 
 @inproceedings{
@@ -57,7 +67,7 @@ code={https://github.com/OpenNLPLab/HGRN},
     doi = "10.18653/v1/2023.findings-emnlp.113",
     pages = "1662--1669",
     abstract = "Scaling dense PCFGs to thousands of nonterminals via low-rank parameterizations of the rule probability tensor has been shown to be beneficial for unsupervised parsing. However, PCFGs scaled this way still perform poorly as a language model, and even underperform similarly-sized HMMs. This work introduces $\emph{SimplePCFG}$, a simple PCFG formalism with independent left and right productions. Despite imposing a stronger independence assumption than the low-rank approach, we find that this formalism scales more effectively both as a language model and as an unsupervised parser. We further introduce $\emph{FlashInside}$, a hardware IO-aware implementation of the inside algorithm for efficiently scaling simple PCFGs. Through extensive experiments on multiple grammar induction benchmarks, we validate the effectiveness of simple PCFGs over low-rank baselines.",
-    selected={true},
+    selected={false},
     abbr={EMNLP findings},
     code={https://github.com/sustcsonglin/TN-PCFG}
 }
