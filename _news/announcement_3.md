@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting an internship at NVIDIA. Feel free to catch up if you're in the Bay Area!
+Starting an internship at NVIDIA. Feel free to catch up :coffee: if you're in the Bay Area! 
