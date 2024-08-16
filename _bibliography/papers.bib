@@ -14,14 +14,14 @@
   year={2024},
   html={https://api.semanticscholar.org/CorpusID:269043328},
   selected={true},
-  abbr={arXiv},
+  abbr={COLM},
   code={https://github.com/sustcsonglin/flash-linear-attention/tree/main/fla/models/hgrn2},
 }
 
 @inproceedings{Yang2023GatedLA,
   title={Gated Linear Attention Transformers with Hardware-Efficient Training},
   author={Songlin Yang* and Bailin Wang* and Yikang Shen and Rameswar Panda and Yoon Kim},
-  year={2023},
+  year={2024},
   url={https://api.semanticscholar.org/CorpusID:266162792},
   abstract={Transformers with linear attention allow for efficient parallel training but can simultaneously be formulated as an RNN with 2D (matrix-valued) hidden states, thus enjoying linear (with respect to output length) inference complexity. Recent works such as RetNet (Sun et al., 2023) and TransNormerLLM (Qin et al., 2023a) observe that adding a global decay term to the additive RNN update rule greatly improves performance, sometimes outperforming standard Transformers with softmax attention when trained at scale. In this work we show that adding a data-dependent gating mechanism further improves performance. We derive a parallel form of this gated linear attention layer that enables efficient training. However, a straightforward, numerically stable implementation of this parallel form requires generalized matrix multiplications in log-space for numerical stability, and thus cannot take advantage of tensor cores on modern GPUs which are optimized for standard matrix multiplications. We develop a hardware-efficient version of the parallel form that can still make use of tensor cores through block-parallel computations over sequence chunks. Experiments on moderate-scale language modeling (340M-parameter models trained on 15B tokens, 1.3B-parameter models trained on 100B tokens) show that gated linear attention (GLA) Transformers perform competitively against a strong LLaMA-architecture Transformer baseline (Touvron et al., 2023) as well as Mamba (Gu & Dao, 2023), a recently introduced state-space model with a data-dependent state transition mechanism. For training speed, our Triton-based implementation performs comparably to CUDA-optimized FlashAttention-2 (Dao, 2023) under the regular 2048 training length setting, while outperforming FlashAttention-2 when training on longer sequences beyond 4096.},
   html={https://arxiv.org/abs/2312.06635},
