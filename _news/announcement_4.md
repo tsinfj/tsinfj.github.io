@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: post
-date: 2024-04-11 20:00:00-0400
+date: 2024-08-20 20:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Introducing [HGRN2](https://arxiv.org/abs/2404.07904) :sparkles: :sparkles:, a minimalist linear attention model with strong performance. Code is available at [here](https://github.com/sustcsonglin/flash-linear-attention/tree/main/fla/models/hgrn2). -->
+Gave a talk at Stanford HazyResearch, "[Linear Transformers for Efficient Sequence Modeling](https://docs.google.com/presentation/d/1iLKQxLBQasIsByT6FBjoKiWWQ4R4CKAC-b6R7unoAMQ/edit?usp=sharing)"
