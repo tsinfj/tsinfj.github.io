@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 :loudspeaker:  New arxiv preprint "[Gated Slot Attention for Efficient Linear-Time Sequence Modeling
-](https://arxiv.org/abs/2406.06484)"
+](https://arxiv.org/abs/2409.07146)"
