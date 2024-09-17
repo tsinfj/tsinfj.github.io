@@ -1,8 +1,9 @@
-<!-- ---
+---
 layout: post
-date: 2024-05-28 20:00:00-0400
+date: 2024-09-11 16:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Starting an internship at NVIDIA. Feel free to catch up :coffee: if you're in the Bay Area!  -->
+:loudspeaker:  New arxiv preprint "[Gated Slot Attention for Efficient Linear-Time Sequence Modeling
+](https://arxiv.org/abs/2406.06484)"
