@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:loudspeaker:  New arxiv preprint "[Gated Slot Attention for Efficient Linear-Time Sequence Modeling
-](https://arxiv.org/abs/2409.07146)"
+:loudspeaker: [GSA](https://arxiv.org/abs/2409.07146) and [DeltaNet](https://arxiv.org/abs/2406.06484) have been accepted to NeurIPS'24 :fire 
