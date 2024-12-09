@@ -1938,6 +1938,69 @@ Christopher R{\'{e}}},
  year = {2022}
 }
 
+@article{DBLP:journals/corr/GravesWD14,
+  author       = {Alex Graves and
+                  Greg Wayne and
+                  Ivo Danihelka},
+  title        = {Neural Turing Machines},
+  journal      = {CoRR},
+  volume       = {abs/1410.5401},
+  year         = {2014},
+  url          = {http://arxiv.org/abs/1410.5401},
+  eprinttype    = {arXiv},
+  eprint       = {1410.5401},
+  timestamp    = {Mon, 13 Aug 2018 16:46:28 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/GravesWD14.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{peng-etal-2023-rwkv,
+    title = "{RWKV}: Reinventing {RNN}s for the Transformer Era",
+    author = "Peng, Bo  and
+      Alcaide, Eric  and
+      Anthony, Quentin  and
+      Albalak, Alon  and
+      Arcadinho, Samuel  and
+      Biderman, Stella  and
+      Cao, Huanqi  and
+      Cheng, Xin  and
+      Chung, Michael  and
+      Derczynski, Leon  and
+      Du, Xingjian  and
+      Grella, Matteo  and
+      Gv, Kranthi  and
+      He, Xuzheng  and
+      Hou, Haowen  and
+      Kazienko, Przemyslaw  and
+      Kocon, Jan  and
+      Kong, Jiaming  and
+      Koptyra, Bart{\l}omiej  and
+      Lau, Hayden  and
+      Lin, Jiaju  and
+      Mantri, Krishna Sri Ipsit  and
+      Mom, Ferdinand  and
+      Saito, Atsushi  and
+      Song, Guangyu  and
+      Tang, Xiangru  and
+      Wind, Johan  and
+      Wo{\'z}niak, Stanis{\l}aw  and
+      Zhang, Zhenyuan  and
+      Zhou, Qinghua  and
+      Zhu, Jian  and
+      Zhu, Rui-Jie",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.936",
+    doi = "10.18653/v1/2023.findings-emnlp.936",
+    pages = "14048--14077",
+    abstract = "Transformers have revolutionized almost all natural language processing (NLP) tasks but suffer from memory and computational complexity that scales quadratically with sequence length. In contrast, recurrent neural networks (RNNs) exhibit linear scaling in memory and computational requirements but struggle to match the same performance as Transformers due to limitations in parallelization and scalability. We propose a novel model architecture, Receptance Weighted Key Value (RWKV), that combines the efficient parallelizable training of transformers with the efficient inference of RNNs. Our approach leverages a linear attention mechanism and allows us to formulate the model as either a Transformer or an RNN, thus parallelizing computations during training and maintains constant computational and memory complexity during inference. We scale our models as large as 14 billion parameters, by far the largest dense RNN ever trained, and find RWKV performs on par with similarly sized Transformers, suggesting future work can leverage this architecture to create more efficient models. This work presents a significant step towards reconciling trade-offs between computational efficiency and model performance in sequence processing tasks.",
+}
+
 @article{recurrent_linear_xfmr,
  author = {Subhojeet Pramanik and
 Esraa Elelimy and
@@ -2502,7 +2565,35 @@ Jennifer Wortman Vaughan},
  volume = {4},
  year = {1992}
 }
-
+@article{DBLP:journals/corr/abs-2406-07887,
+  author       = {Roger Waleffe and
+                  Wonmin Byeon and
+                  Duncan Riach and
+                  Brandon Norick and
+                  Vijay Korthikanti and
+                  Tri Dao and
+                  Albert Gu and
+                  Ali Hatamizadeh and
+                  Sudhakar Singh and
+                  Deepak Narayanan and
+                  Garvit Kulshreshtha and
+                  Vartika Singh and
+                  Jared Casper and
+                  Jan Kautz and
+                  Mohammad Shoeybi and
+                  Bryan Catanzaro},
+  title        = {An Empirical Study of Mamba-based Language Models},
+  journal      = {CoRR},
+  volume       = {abs/2406.07887},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2406.07887},
+  doi          = {10.48550/ARXIV.2406.07887},
+  eprinttype    = {arXiv},
+  eprint       = {2406.07887},
+  timestamp    = {Fri, 12 Jul 2024 15:54:31 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2406-07887.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 @inproceedings{ba2016using,
  author = {Jimmy Ba and
 Geoffrey E. Hinton and
@@ -2630,6 +2721,41 @@ Virtual Event, Austria, May 3-7, 2021},
  title = {Random Feature Attention},
  url = {https://openreview.net/forum?id=QtTKTdVrFBB},
  year = {2021}
+}
+@article{DBLP:journals/corr/abs-2403-19887,
+  author       = {Opher Lieber and
+                  Barak Lenz and
+                  Hofit Bata and
+                  Gal Cohen and
+                  Jhonathan Osin and
+                  Itay Dalmedigos and
+                  Erez Safahi and
+                  Shaked Meirom and
+                  Yonatan Belinkov and
+                  Shai Shalev{-}Shwartz and
+                  Omri Abend and
+                  Raz Alon and
+                  Tomer Asida and
+                  Amir Bergman and
+                  Roman Glozman and
+                  Michael Gokhman and
+                  Avashalom Manevich and
+                  Nir Ratner and
+                  Noam Rozen and
+                  Erez Shwartz and
+                  Mor Zusman and
+                  Yoav Shoham},
+  title        = {Jamba: {A} Hybrid Transformer-Mamba Language Model},
+  journal      = {CoRR},
+  volume       = {abs/2403.19887},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2403.19887},
+  doi          = {10.48550/ARXIV.2403.19887},
+  eprinttype    = {arXiv},
+  eprint       = {2403.19887},
+  timestamp    = {Wed, 10 Apr 2024 17:37:45 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2403-19887.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
 @inproceedings{choromanski2020rethinking,
