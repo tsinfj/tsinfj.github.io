@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2024-05-01 20:00:00-0400
+date: 2025-01-17 20:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Gated Linear Attention Transformers ([GLA](https://arxiv.org/abs/2312.06635)) is accepted to ICML 2024 :smile: Code is available at [here](https://github.com/sustcsonglin/flash-linear-attention/tree/main/fla/models/gla).
+Gave a remote talk at Hao AI Lab @ UCSD, "[What’s Next to Mamba?
+Towards More Expressive Recurrent Update Rules](/assets/pdf/talk_250117.pdf)"
+
