@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a talk at Stanford HazyResearch, "[Linear Transformers for Efficient Sequence Modeling](/assets/pdf/talk_linear_transformer.pdf)"
+Gave a talk at [HazyResearch @ Standford](https://hazyresearch.stanford.edu/), "[Linear Transformers for Efficient Sequence Modeling](/assets/pdf/talk_linear_transformer.pdf)"
