@@ -21,9 +21,8 @@ profile:
 
 
 
-
-news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -43,10 +42,7 @@ Previously, she obtained her bachelar's degree from [SUSTech](https://www.sustec
 Her research is centered on the intersection of **machine learning system** and **large language model**, with a specific focus on the hardware-aware algorithm design for efficient sequence modeling.
 
 
-
-
-
-
+She believes in open-sourcing and 🐳. Check out the open source library [flash-linear-attention](https://github.com/fla-org/flash-linear-attention) and the [ASAP seminar](https://asap-seminar.github.io/). To learn about her research, check out [Tutorial Video](https://www.youtube.com/watch?v=d0HJvGSWw8A) and the [slides](https://github.com/sustcsonglin/linear-attention-and-beyond-slides/blob/main/main.pdf). The best way to find her is through [FLA Discord](https://discord.gg/vDaJTmKNcS). 
 
 
 
