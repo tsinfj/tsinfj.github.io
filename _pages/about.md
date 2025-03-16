@@ -25,7 +25,7 @@ Hi, I'm Bo Wu (武博), and I earned a Bachelor of Finance degree from Beijing I
 
 Through projects in quantitative analysis and **mathematical modeling**, I have refined my analytical and research skills, and my studies using tools like Stata, R, and Python have deepened my understanding of economic impacts and policy evaluations. Passionate about quantitative finance, I am now preparing for graduate studies to further advance my expertise in this dynamic field.
 
-**[CV (click here)](/assets/pdf/2025CV.pdf)**
+**[CV (click here)](https://github.com/infj02us/infj02us.github.io/blob/master/assets/pdf/2025CV.pdf)**
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
