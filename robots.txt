@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sxjs1st.github.io/sitemap.xml
+Sitemap: https://infj02us.github.io/sitemap.xml
