@@ -18,7 +18,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: maomao.jpeg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://sxjs1st.github.io # the base hostname & protocol for your site
+url: https://infj02us.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -74,9 +74,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: sustcsonglin # your GitHub user name
+github_username: infj02us # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: SonglinYang4 # your X handle
+x_username: TueosSigtales17 # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: songlin-yang-b8a69728b # your LinkedIn user name
 telegram_username: # your Telegram user name
