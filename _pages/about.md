@@ -25,6 +25,8 @@ Hi, I'm Bo Wu (武博), and I earned a Bachelor of Finance degree from Beijing I
 
 Through projects in quantitative analysis and **mathematical modeling**, I have refined my analytical and research skills, and my studies using tools like Stata, R, and Python have deepened my understanding of economic impacts and policy evaluations. Passionate about quantitative finance, I am now preparing for graduate studies to further advance my expertise in this dynamic field.
 
+**[CV (click here)](/assets/pdf/2025CV.pdf)**
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
