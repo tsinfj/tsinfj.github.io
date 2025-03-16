@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sustcsonglin.github.io/sitemap.xml
+Sitemap: https://sxjs1st.github.io/sitemap.xml
