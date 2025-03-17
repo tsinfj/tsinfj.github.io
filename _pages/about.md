@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Bo Wu (武博). I earned my Bachelor of Finance degree from Beijing International Studies University under the mentorship of [Prof. Hua Zhu](https://www.semanticscholar.org/author/Hua-Zhu/2115717502). Graduating 5th in a cohort of 51, I excelled in courses such as Real Analysis and Financial Econometrics with guidance from [Prof. Jia Zhai](https://www.researchgate.net/profile/Jia-Zhai-4). My internships at CITIC Securities and Grant Thornton provided me with valuable, hands-on experience in market research and auditing.
+Hello, I'm Bo Wu (武博). I earned my Bachelor of Finance degree from Beijing International Studies University under the mentorship of [Prof. Hua Zhu](https://www.semanticscholar.org/author/Hua-Zhu/2115717502). Graduating 5th in a cohort of 51, I excelled in courses such as Real Analysis and Financial Econometrics with guidance from [Prof. Jia Zhai](https://www.semanticscholar.org/author/Jia-Zhai/2717495). My internships at CITIC Securities and Grant Thornton provided me with valuable, hands-on experience in market research and auditing.
 
 Additionally, I honed my analytical and research skills through projects in quantitative analysis and mathematical modeling led by [Prof. Xueqi Wang](https://www.semanticscholar.org/author/Xueqi-Wang/50141387). Utilizing tools like Stata, R, and Python, I deepened my understanding of economic impacts and policy evaluations. With a passion for quantitative finance, I am now preparing to pursue graduate studies to further advance my expertise in this dynamic field.
 
