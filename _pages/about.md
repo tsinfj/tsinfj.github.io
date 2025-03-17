@@ -28,7 +28,7 @@ Additionally, I honed my analytical and research skills through projects in quan
 **[CV (click here)](https://tsinfj.github.io/assets/pdf/2025CV1.pdf)**
 
 <!-- 
-Hi, I'm Bo Wu (武博), and I earned a Bachelor of Finance degree from Beijing International Studies University, advised by [Prof. Jia Zhai](https://www.researchgate.net/profile/Jia-Zhai-4). I ranked 5th out of 51 in my cohort, excelling in courses such as **Real Analysis and Financial Econometrics**. My internships at CITIC Securities and Grant Thornton provided hands-on experience in market research and auditing. 
+Hi, I'm Bo Wu (武博), and I earned a Bachelor of Finance degree from Beijing International Studies University, advised by [Prof. Jia Zhai](https://www.researchgate.net/profile/Jia-Zhai-4). I ranked 5th out of 50 in my cohort, excelling in courses such as **Real Analysis and Financial Econometrics**. My internships at CITIC Securities and Grant Thornton provided hands-on experience in market research and auditing. 
 
 Through projects in quantitative analysis and **mathematical modeling**, I have refined my analytical and research skills, and my studies using tools like Stata, R, and Python have deepened my understanding of economic impacts and policy evaluations. Passionate about quantitative finance, I am now preparing for graduate studies to further advance my expertise in this dynamic field.
 
