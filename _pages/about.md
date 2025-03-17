@@ -21,18 +21,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hello, I'm Bo Wu (武博). I earned my Bachelor of Finance degree from Beijing International Studies University under the mentorship of [Prof. Hua Zhu](https://www.semanticscholar.org/author/Hua-Zhu/2115717502). Graduating 5th in a cohort of 51, I excelled in courses such as Real Analysis and Financial Econometrics with guidance from [Prof. Jia Zhai](https://www.researchgate.net/profile/Jia-Zhai-4). My internships at CITIC Securities and Grant Thornton provided me with valuable, hands-on experience in market research and auditing.
+
+Additionally, I honed my analytical and research skills through projects in quantitative analysis and mathematical modeling led by [Prof. Xueqi Wang](https://www.semanticscholar.org/author/Xueqi-Wang/50141387). Utilizing tools like Stata, R, and Python, I deepened my understanding of economic impacts and policy evaluations. With a passion for quantitative finance, I am now preparing to pursue graduate studies to further advance my expertise in this dynamic field.
+
+**[CV (click here)](https://tsinfj.github.io/assets/pdf/2025CV.pdf)**
+
+<!-- 
 Hi, I'm Bo Wu (武博), and I earned a Bachelor of Finance degree from Beijing International Studies University, advised by [Prof. Jia Zhai](https://www.researchgate.net/profile/Jia-Zhai-4). I ranked 5th out of 51 in my cohort, excelling in courses such as **Real Analysis and Financial Econometrics**. My internships at CITIC Securities and Grant Thornton provided hands-on experience in market research and auditing. 
 
 Through projects in quantitative analysis and **mathematical modeling**, I have refined my analytical and research skills, and my studies using tools like Stata, R, and Python have deepened my understanding of economic impacts and policy evaluations. Passionate about quantitative finance, I am now preparing for graduate studies to further advance my expertise in this dynamic field.
 
-**[CV (click here)](https://infj02us.github.io/assets/pdf/2025CV.pdf)**
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. 
-
 
 Her research is centered on the intersection of **machine learning systems** and **large language models**, with a specific focus on hardware-aware algorithm design for efficient sequence modeling.
 
