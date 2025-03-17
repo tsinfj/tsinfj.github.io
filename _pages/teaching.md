@@ -29,9 +29,9 @@ Outside of the academic world, I have a passion for triathlons. They provide a g
   - 200m individual medley: 3'37"03 (&#129352;<span style="color:silver">*2nd place*</span> of group B at the Tsinghua University Swimming Competition, 2020)
 - Cycling: None
 - Running:
-  - 1km: 3:51
-  - 5km: 24:42
-  - Half marathon: 2:13:48
+  - 1km: 3:23
+  - 5km: 19:37
+  - Half marathon: 1:53:48
 
 [^1]: Departments and schools are divided into two groups based on the numbers of students of them. IIIS has a few students, so it is in group B.
 
