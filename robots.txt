@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://infj02us.github.io/sitemap.xml
+Sitemap: https://tsinfj.github.io/sitemap.xml
