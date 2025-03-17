@@ -25,7 +25,7 @@ Hello and welcome! I'm Bo Wu (武博), a Bachelor of Finance graduate from [Beij
 
 Additionally, I honed my analytical and research skills through projects in quantitative analysis and mathematical modeling led by [Prof. Xueqi Wang](https://www.semanticscholar.org/author/Xueqi-Wang/50141387). Utilizing tools like Matlab, Python, and R, I deepened my understanding of economic impacts and policy evaluations. With a passion for quantitative finance, I am now preparing to pursue graduate studies to further advance my expertise in this dynamic field.
 
-**[CV (click here)](https://tsinfj.github.io/assets/pdf/2025CV1.pdf)**
+Feel free to contact me! **[CV (click here)](https://tsinfj.github.io/assets/pdf/2025CV1.pdf)**
 
 <!-- 
 Hi, I'm Bo Wu (武博), and I earned a Bachelor of Finance degree from Beijing International Studies University, advised by [Prof. Jia Zhai](https://www.researchgate.net/profile/Jia-Zhai-4). I ranked 5th out of 50 in my cohort, excelling in courses such as **Real Analysis and Financial Econometrics**. My internships at CITIC Securities and Grant Thornton provided hands-on experience in market research and auditing. 
