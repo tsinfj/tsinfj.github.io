@@ -27,6 +27,10 @@ Additionally, I honed my analytical and research skills through projects in quan
 
 Feel free to contact me! **[CV (click here)](https://tsinfj.github.io/assets/pdf/2025CV1.pdf)**
 
+> *We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win, and the others, too.*
+> 
+> -- John F. Kennedy
+
 <!-- 
 Hi, I'm Bo Wu (武博), and I earned a Bachelor of Finance degree from Beijing International Studies University, advised by [Prof. Jia Zhai](https://www.researchgate.net/profile/Jia-Zhai-4). I ranked 5th out of 50 in my cohort, excelling in courses such as **Real Analysis and Financial Econometrics**. My internships at CITIC Securities and Grant Thornton provided hands-on experience in market research and auditing. 
 
