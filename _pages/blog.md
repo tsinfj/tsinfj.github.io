@@ -178,5 +178,5 @@ pagination:
     {%- include pagination.html -%}
   {%- endif -%}
 
-</div> -->
+</div> 
 
