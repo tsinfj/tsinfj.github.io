@@ -129,7 +129,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: every 100 days # blog_name will be displayed in your blog page
 blog_description: our story is a joy forever
-permalink: 
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
