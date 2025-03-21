@@ -48,4 +48,8 @@ I don't like:
 
 ## Music
 
-I can play the piano and the drums a bit. I like to listen to symphonies.
+I can play the piano and the drums a bit. Although I’m not a professional, I enjoy practicing in my free time, especially when I want to relax or express my emotions through music. I also like to listen to symphonies—they help me unwind and appreciate the beauty of classical music. The rich layers of sound and the emotion behind each piece always inspire me. Music plays an important role in my life, both as a hobby and as a source of comfort.
+
+## Movies
+
+My favorite movies are Tenet and The Matrix. I really enjoy films that explore complex ideas like time, reality, and human perception. Both movies have mind-bending plots, stunning visuals, and thought-provoking themes that make me want to watch them over and over again. I love how they challenge the way we think about the world and push the boundaries of science fiction.
