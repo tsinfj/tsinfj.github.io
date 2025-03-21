@@ -7,7 +7,7 @@ nav_order: 1
 pagination:
   enabled: true
   collection: posts
-  permalink: /page/:num/
+  permalink: 
   per_page: 5
   sort_field: date
   sort_reverse: true
@@ -23,7 +23,7 @@ pagination:
 
   {% if blog_name_size > 0 or blog_description_size > 0 %}
   <div class="header-bar">
-    <h1>{{ site.blog_name a simple whitespace theme for academics
+    <h1>{{ site.blog_name our story is a joy forever
 }}</h1>
     <h2>{{ site.blog_description }}</h2>
   </div>
