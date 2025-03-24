@@ -25,7 +25,7 @@ Hello and welcome! I'm Bo Wu (武博), a Bachelor of Finance graduate from [Beij
 
 Additionally, I honed my analytical and research skills through projects in quantitative analysis and mathematical modeling led by [Prof. Xueqi Wang](https://www.semanticscholar.org/author/Xueqi-Wang/50141387). Utilizing tools like Matlab, Python, and R, I deepened my understanding of economic impacts and policy evaluations. With a passion for quantitative finance, I am now preparing to pursue graduate studies to further advance my expertise in this dynamic field.
 
-Feel free to contact me! **[CV (click here)](https://tsinfj.github.io/assets/pdf/2025CV1.pdf)**
+Feel free to contact me! **[CV (click here)](https://tsinfj.github.io/assets/pdf/2025CV.pdf)**
 
 > *We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win, and the others, too.*
 > 
